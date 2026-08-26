@@ -1,3 +1,3 @@
-# wuthuq-ai
+# wuthuq-ai platforms
 
-[![Open in Bolt](https://bolt.new/static/open-in-bolt.svg)](https://bolt.new/~/sb1-wstytbso)
+AI-powered credit scoring platform for individuals and SMEs.
